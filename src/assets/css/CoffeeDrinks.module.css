@@ -1,0 +1,14 @@
+.coffeeDrinkContainer {
+    width: 400px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+    border-bottom: 2px solid #181818;
+}
+
+.coffeeDrinkContainer:last-of-type {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: 0;
+}
